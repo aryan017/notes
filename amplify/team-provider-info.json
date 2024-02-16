@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "notes0dea35ce": {}
+      },
+      "api": {
+        "notes": {}
+      },
+      "storage": {
+        "s3dd699157": {}
       }
     }
   }
